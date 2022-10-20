@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Compress">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEBAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Compress.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Decompress">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAAAAAgAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Decompress.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Files&lt;T&gt;">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAICAAAAAAAAAAAAAAAAAAAAABAAAAAAAAIA=</HashCode>
+      <FileName>Files.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LZ78_compress">
+    <Position X="3.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>LZ78_compress.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LZ78_decompress">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAAAAAgAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>LZ78_decompress.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Parameters">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAABAAAAAAAAABAAQAABAAQAAACAAAA=</HashCode>
+      <FileName>Parameters.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="InputValues">
+    <Position X="7.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAIAAAAAAAABgAAAAAAAAAA=</HashCode>
+      <FileName>Parameters.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
